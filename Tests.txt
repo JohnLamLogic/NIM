@@ -1,0 +1,232 @@
+Number of piles? 4
+Mode (H for Human vs AI, A for AI vs AI)? H
+1 : 001
+3 : 011
+5 : 101
+7 : 111
+XOR: 000
+
+Your move (pile count)? 4 7
+After move 1
+1 : 001
+3 : 011
+5 : 101
+0 : 000
+XOR: 111
+
+A chooses pile 3 take 3 (score 1 )
+After move 2
+1 : 01
+3 : 11
+2 : 10
+0 : 00
+XOR: 00
+
+Your move (pile count)? 2 3
+After move 3
+1 : 01
+0 : 00
+2 : 10
+0 : 00
+XOR: 11
+
+A chooses pile 3 take 2 (score 1 )
+After move 4
+1 : 1
+0 : 0
+0 : 0
+0 : 0
+XOR: 1
+
+Your move (pile count)? 1 1
+After move 5
+0 : 0
+0 : 0
+0 : 0
+0 : 0
+XOR: 0
+
+A wins
+Number of piles? 4
+Mode (H for Human vs AI, A for AI vs AI)? A
+1 : 001
+3 : 011
+5 : 101
+7 : 111
+XOR: 000
+
+A1 chooses pile 1 take 1 (score -1 )
+After move 1
+0 : 000
+3 : 011
+5 : 101
+7 : 111
+XOR: 001
+
+A2 chooses pile 2 take 1 (score 1 )
+After move 2
+0 : 000
+2 : 010
+5 : 101
+7 : 111
+XOR: 000
+
+A1 chooses pile 2 take 1 (score -1 )
+After move 3
+0 : 000
+1 : 001
+5 : 101
+7 : 111
+XOR: 011
+
+A2 chooses pile 4 take 3 (score 1 )
+After move 4
+0 : 000
+1 : 001
+5 : 101
+4 : 100
+XOR: 000
+
+A1 chooses pile 2 take 1 (score -1 )
+After move 5
+0 : 000
+0 : 000
+5 : 101
+4 : 100
+XOR: 001
+
+A2 chooses pile 3 take 1 (score 1 )
+After move 6
+0 : 000
+0 : 000
+4 : 100
+4 : 100
+XOR: 000
+
+A1 chooses pile 3 take 1 (score -1 )
+After move 7
+0 : 000
+0 : 000
+3 : 011
+4 : 100
+XOR: 111
+
+A2 chooses pile 4 take 1 (score 1 )
+After move 8
+0 : 00
+0 : 00
+3 : 11
+3 : 11
+XOR: 00
+
+A1 chooses pile 3 take 1 (score -1 )
+After move 9
+0 : 00
+0 : 00
+2 : 10
+3 : 11
+XOR: 01
+
+A2 chooses pile 4 take 1 (score 1 )
+After move 10
+0 : 00
+0 : 00
+2 : 10
+2 : 10
+XOR: 00
+
+A1 chooses pile 3 take 1 (score -1 )
+After move 11
+0 : 00
+0 : 00
+1 : 01
+2 : 10
+XOR: 11
+
+A2 chooses pile 4 take 2 (score 1 )
+After move 12
+0 : 0
+0 : 0
+1 : 1
+0 : 0
+XOR: 1
+
+A1 chooses pile 3 take 1 (score -1 )
+After move 13
+0 : 0
+0 : 0
+0 : 0
+0 : 0
+XOR: 0
+
+A2 wins
+Number of piles? 2
+Mode (H for Human vs AI, A for AI vs AI)? A
+1 : 01
+3 : 11
+XOR: 10
+
+A1 chooses pile 2 take 3 (score 1 )
+After move 1
+1 : 1
+0 : 0
+XOR: 1
+
+A2 chooses pile 1 take 1 (score -1 )
+After move 2
+0 : 0
+0 : 0
+XOR: 0
+
+A1 wins
+Number of piles? 3
+Mode (H for Human vs AI, A for AI vs AI)? A
+1 : 001
+3 : 011
+5 : 101
+XOR: 111
+
+A1 chooses pile 3 take 3 (score 1 )
+After move 1
+1 : 01
+3 : 11
+2 : 10
+XOR: 00
+
+A2 chooses pile 1 take 1 (score -1 )
+After move 2
+0 : 00
+3 : 11
+2 : 10
+XOR: 01
+
+A1 chooses pile 2 take 1 (score 1 )
+After move 3
+0 : 00
+2 : 10
+2 : 10
+XOR: 00
+
+A2 chooses pile 2 take 1 (score -1 )
+After move 4
+0 : 00
+1 : 01
+2 : 10
+XOR: 11
+
+A1 chooses pile 3 take 2 (score 1 )
+After move 5
+0 : 0
+1 : 1
+0 : 0
+XOR: 1
+
+A2 chooses pile 2 take 1 (score -1 )
+After move 6
+0 : 0
+0 : 0
+0 : 0
+XOR: 0
+
+A1 wins
+Number of piles?
